@@ -1,2 +1,3 @@
-# Blinkit-Project-Report
-A Power BI dashboard analyzing Blinkit’s sales performance across item categories, outlet types, and locations. It highlights key metrics like total sales, average sales, and customer ratings to uncover trends and support data-driven decisions.
+Blinkit Sales Analysis 2022 — Power BI Dashboard
+Objective:
+To analyze Blinkit’s 2022 sales performance across product categories, outlet types, and location tiers using Power BI, delivering actionable insights on revenue distribution, customer preferences, and operational efficiency.
