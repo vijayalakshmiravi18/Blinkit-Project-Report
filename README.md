@@ -31,7 +31,11 @@ To analyze Blinkit’s 2022 sales performance across product categories, outlet 
 # Process
 
 -**Data Preparation**: Collected Blinkit 2022 sales data, cleaned and standardized item and outlet details.
+
 -**Modeling**: Built a star schema and created relationships between fact and dimension tables.
+
 -**DAX Measures**: Calculated KPIs like Total Sales, Average Sales, Ratings, and category-wise performance.
+
 -**Visualization**: Designed interactive Power BI dashboard with filters, slicers, and multiple analysis pages.
+
 -**Insights**: Identified top categories, outlet trends, and location-based performance.
