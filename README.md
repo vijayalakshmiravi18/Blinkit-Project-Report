@@ -39,3 +39,6 @@ To analyze Blinkit’s 2022 sales performance across product categories, outlet 
 -**Visualization**: Designed interactive Power BI dashboard with filters, slicers, and multiple analysis pages.
 
 -**Insights**: Identified top categories, outlet trends, and location-based performance.
+
+## Dashboard Preview
+![Blinkit Dashboard](https://github.com/vijayalakshmiravi18/Blinkit-Project-Report/blob/main/Blinkit%20dashboard.png)
