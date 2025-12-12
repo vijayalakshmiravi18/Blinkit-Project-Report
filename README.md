@@ -42,3 +42,12 @@ To analyze Blinkit’s 2022 sales performance across product categories, outlet 
 
 ## Dashboard Preview
 ![Blinkit Dashboard](https://github.com/vijayalakshmiravi18/Blinkit-Project-Report/blob/main/Blinkit%20dashboard.png)
+
+# Project Insights
+
+**Top Categories**: Fruits and Snacks lead in sales, followed by Household and Dairy items.
+**Outlet Performance**: Supermarket Type1 contributes the highest revenue, while Grocery Stores have lower sales but higher item visibility.
+**Location Trends**: Tier 3 cities generate the most sales, indicating strong demand outside metro areas.
+**Fat Content Impact**: Low Fat items slightly outperform Regular in total sales.
+**Outlet Size**: Medium-sized outlets dominate sales compared to small and high-size outlets.
+**Customer Ratings**: Average rating is 3.9, consistent across outlet types.
