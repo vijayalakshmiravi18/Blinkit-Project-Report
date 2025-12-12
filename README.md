@@ -27,4 +27,4 @@ To analyze Blinkit’s 2022 sales performance across product categories, outlet 
 -How visible are items and does visibility correlate with sales?
 
 - Dashboard Interaction
--   <a href="https://github.com/vijayalakshmiravi18/Blinkit-Project-Report/blob/main/Blinkit.pbix" View Dashboard</a>
+-<a href="https://github.com/vijayalakshmiravi18/Blinkit-Project-Report/blob/main/Blinkit.pbix" >View Dashboard</a>
