@@ -5,7 +5,7 @@ To analyze Blinkit’s 2022 sales performance across product categories, outlet 
 ## Dataset used
 - <a href="https://github.com/vijayalakshmiravi18/Blinkit-Project-Report/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 -What is the total sales revenue for Blinkit in 2022?
 
 -What is the average sales per item and overall item count?
